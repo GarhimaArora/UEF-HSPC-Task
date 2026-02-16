@@ -5,7 +5,7 @@
 - Downloading_RAW_data_count_SRR.bash  
   Bash script for downloading raw sequencing data from the SRA using the SRA Toolkit. This script retrieves FASTQ files corresponding to the SRR accessions associated with the study.  
 
-- cellranger_data.sh
+- cellranger_data.sh  
   Shell script for running Cell Ranger on the downloaded FASTQ files to perform read alignment, barcode processing, and UMI counting, generating gene–cell expression matrices for downstream single-cell analysis.
 
 - Preprocessing_data.R  
