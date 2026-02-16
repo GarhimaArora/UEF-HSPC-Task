@@ -1,4 +1,4 @@
-  ### Scripts
+### Scripts
 
   The folder contains all the code required for the proposed single-cell RNA-seq analysis pipeline for investigating sex-specific differences in human bone marrow cells.  
 
@@ -25,19 +25,19 @@
 
   ---
 
-  ### Analysis_Toolkit
+### Analysis_Toolkit
 
   The text file contains information on all required software tools.
 
   ---
 
-  ### R_Package_List
+### R_Package_List
 
   The text file lists all required R packages for the analysis.
 
   ---
 
-  ### Documentation_Final
+### Documentation_Final
 
   The PDF file contains the proposed computational pipeline for investigating sex-specific transcriptional differences in bone marrow scRNA-seq data across vaccination status and longitudinal time points.
 
