@@ -1,6 +1,6 @@
----
+  ### Scripts
 
-### The scripts/ folder contains all code required to reproduce the proposed single-cell RNA-seq analysis pipeline for investigating sex-specific differences in human bone marrow cells.  
+  The folder contains all the code required to reproduce the proposed single-cell RNA-seq analysis pipeline for investigating sex-specific differences in human bone marrow cells.  
 
 - Downloading_RAW_data_count_SRR.bash  
   Bash script for downloading raw sequencing data from the SRA using the SRA Toolkit. This script retrieves FASTQ files corresponding to the SRR accessions associated with the study.  
